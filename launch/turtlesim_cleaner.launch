@@ -1,0 +1,5 @@
+ <!-- Turtlesim launch created by Anup Reni-->
+<launch>
+  <node name = "turtlesim" pkg ="turtlesim" type = "turtlesim_node"/>
+  <node name="robot_cleaner" pkg="turtlesim_cleaner" type="move.py" output="screen"/>
+</launch>
