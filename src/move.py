@@ -7,7 +7,7 @@ from math import pow,sqrt,atan2, degrees
 
 #Definin global parameters
 length = 5
-width  = 2.5
+width  = 1.5
 PI = 3.1415926535897
 ang_speed = 0.2
 speed = 1
