@@ -6,7 +6,7 @@ The turtlesim has to follow a specified path and return to the home position. Th
 ```
 cd ~/catkin_ws/src
 git clone https://github.com/anupreni/turtlesim_cleaner.git
-catkin build turtlesim_cleaner
+catkin build turtlesim-cleaner
 roslaunch turtlesim_cleaner turtlesim_cleaner.launch
 ```
 ## Output
